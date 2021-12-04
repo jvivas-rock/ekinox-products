@@ -25,6 +25,10 @@ module.exports = {
           DEFAULT: '#98c775',
         },
       },
+	  fontFamily: {
+		  'general': ['Helvetica LT Std', 'sans-serif'],
+		  'body': ['Helvetica', 'sans-serif'],
+	  },
 	  spacing: {
          '72': '18rem',
          '84': '21rem',

@@ -18,29 +18,28 @@
     </div>
 </div>
 <div class="flex flex-no-wrap">
-    <div class="float-left relative flex-col width-1/5">
-        <div class="flex flex-col w-64 h-full px-4 py-8 bg-verde border-r dark:bg-gray-800 dark:border-gray-600">
-        
+    <div class="float-left relative flex-col w-1/8">
+        <div class="flex flex-col w-64 h-full px-2 py-8 bg-verde border-r dark:bg-gray-800 dark:border-gray-600">
             <div class="flex flex-col justify-between flex-1">
                 <nav class="my-3">
 
                     <a class="flex items-center px-4 py-2 mt-20 text-2xl text-gray-100 transition-colors duration-200 transform rounded-md dark:text-gray-400 hover:bg-naranja dark:hover:bg-gray-700 dark:hover:text-gray-200 hover:text-gray-900" href="{{ url('/') }}">
-                        <span class="mx-2 font-medium uppercase">Home</span>
+                        <span class="mx-auto text-center font-general font-light text-4xl uppercase">Home</span>
                     </a>
 
                     <a class="flex items-center px-4 py-2 mt-32 text-2xl text-gray-100 transition-colors duration-200 transform rounded-md dark:text-gray-400 hover:bg-naranja dark:hover:bg-gray-700 dark:hover:text-gray-200 hover:text-gray-900" href="{{ route('aboutus') }}">
-                        <span class="mx-2 font-medium uppercase">¿Quiénes Somos?</span>
+                        <span class="mx-auto text-center font-general font-light text-4xl uppercase">¿Quiénes Somos?</span>
                     </a>
 
                     <a class="flex items-center px-4 py-2 mt-32 text-2xl text-gray-100 transition-colors duration-200 transform rounded-md dark:text-gray-400 hover:bg-naranja dark:hover:bg-gray-700 dark:hover:text-gray-200 hover:text-gray-900" href="{{ url('/products') }}">
-                        <span class="mx-2 font-medium uppercase">Nuestros Productos</span>
+                        <span class="mx-auto text-center font-general font-light text-4xl uppercase">Nuestros Productos</span>
                     </a>
 
                 </nav>
             </div>
         </div>
     </div>
-    <div class="container bg-white width-4/5">
+    <div class="container bg-white w-7/8">
         <section>
             <div class="flex m-2">
                 <div>
@@ -59,7 +58,7 @@
                     </div>
                     <div class="mt-20">
                         <a href="{{ url('/products/fruits') }}" class="mt-10 flex flex-col items-center justify-center w-full max-w-lg mx-auto my-4">
-                            <img class="object-cover w-80 duration-300 transform hover:scale-125" src="{{ asset('/img/frutas-t.png') }}">
+                            <img class="object-cover w-80 duration-300 transform hover:scale-125" src="{{ asset('/img/frutas.png') }}">
                             <h4 class="mt-3 text-lg font-medium text-gray-700 dark:text-gray-200">Frutas</h4>
                             <p class="text-gray-700">Fruits</p>
                         </a>

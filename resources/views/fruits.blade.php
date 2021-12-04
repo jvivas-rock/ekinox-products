@@ -1,89 +1,88 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="bg-hoja flex justify-between items-center shadow dark:bg-gray-800 py-8">
+<div class="bg-hoja flex justify-between items-center shadow dark:bg-gray-800 py-4">
     <div class="mx-3">
         <p>&nbsp;</p>
     </div>
     <div>
-        <h2 class="antialiased font-bold text-4xl uppercase text-gray-100">Nuestros Productos</h2>
+        <h2 class="antialiased font-extralight text-4xl font-general uppercase text-gray-100">Nuestros Productos</h2>
     </div>
     <div class="flex">
         <p>&nbsp;</p>
     </div>
 </div>
 <div class="flex flex-no-wrap">
-    <div class="float-left relative flex-col w-1/5">
-        <div class="flex flex-col w-64 h-full px-4 py-8 bg-verde border-r dark:bg-gray-800 dark:border-gray-600">
-        
+    <div class="float-left relative flex-col w-1/8">
+        <div class="flex flex-col w-64 h-full px-2 py-8 bg-verde border-r dark:bg-gray-800 dark:border-gray-600">
             <div class="flex flex-col justify-between flex-1">
                 <nav class="my-3">
 
                     <a class="flex items-center px-4 py-2 mt-20 text-2xl text-gray-100 transition-colors duration-200 transform rounded-md dark:text-gray-400 hover:bg-naranja dark:hover:bg-gray-700 dark:hover:text-gray-200 hover:text-gray-900" href="{{ url('/') }}">
-                        <span class="mx-2 font-medium uppercase">Home</span>
+                        <span class="mx-auto text-center font-general font-light text-4xl uppercase">Home</span>
                     </a>
 
                     <a class="flex items-center px-4 py-2 mt-32 text-2xl text-gray-100 transition-colors duration-200 transform rounded-md dark:text-gray-400 hover:bg-naranja dark:hover:bg-gray-700 dark:hover:text-gray-200 hover:text-gray-900" href="{{ route('aboutus') }}">
-                        <span class="mx-2 font-medium uppercase">¿Quiénes Somos?</span>
+                        <span class="mx-auto text-center font-general font-light text-4xl uppercase">¿Quiénes Somos?</span>
                     </a>
 
                     <a class="flex items-center px-4 py-2 mt-32 text-2xl text-gray-100 transition-colors duration-200 transform rounded-md dark:text-gray-400 hover:bg-naranja dark:hover:bg-gray-700 dark:hover:text-gray-200 hover:text-gray-900" href="{{ url('/products') }}">
-                        <span class="mx-2 font-medium uppercase">Nuestros Productos</span>
+                        <span class="mx-auto text-center font-general font-light text-4xl uppercase">Nuestros Productos</span>
                     </a>
 
                 </nav>
             </div>
         </div>
     </div>
-    <main class="w-4/5 bg-white h-screen overflow-y-scroll">
-        <section class="flex justify-around items-center m-2">
+    <main class="w-7/8 bg-white h-screen overflow-y-scroll">
+        <section class="flex justify-around items-center">
 			<div class="flex">
-				<div class="w-1/3 flex flex-col justify-center items-center m-2">
+				<div class="w-1/2 flex flex-col justify-center items-center m-2">
 					<div>
 						<img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/pineapple.png') }}">
 					</div>
 					<div class="justify-center">
-						<h2 class="text-4xl text-center font-bold uppercase">
+						<h2 class="text-4xl font-general text-center font-normal uppercase">
 							Piña
 						</h2>
 					</div>
 				</div>
-				<div class="w-2/3 m-2">
+				<div class="w-1/2 m-2">
 					<div class="flex justify-between">
 						<div>
 							<p>&nbsp;</p>
 						</div>
 						<div>
-							<img class="w-full h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+							<img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
 						</div>
 						<div>
 							<p>&nbsp;</p>
 						</div>
 					</div>
 					<div class="m-2">
-						<p class="my-4 text-sm text-gray-900 antialiased">
-							<strong>Nombre Comercial: </strong>Piña tropical o ananás.
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+							<strong class="font-normal">Nombre Comercial: </strong>Piña tropical o ananás.
 						</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
-							<strong>PROPIEDADES GENERALES:</strong>
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+							<strong class="font-normal">PROPIEDADES GENERALES:</strong>
 						</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
-							<strong>Descripción: </strong>: De fragancia muy singular, hermoso color y agradable sabor agridulce. Se come cruda o como ingrediente en zumos, conservas, licores, etc. El fruto y las hojas se usan en la preparación de compuestos medicinales.
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+							<strong>Descripción: </strong>De fragancia muy singular, hermoso color y agradable sabor agridulce. Se come cruda o como ingrediente en zumos, conservas, licores, etc. El fruto y las hojas se usan en la preparación de compuestos medicinales.
 						</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
 							<strong>Vida Útil: </strong>Condiciones de almacenamiento de 20°C y 85% de H.R. presenta un período de vida útil de 18 días.
 						</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
 							<strong>Formas de Consumo: </strong>Se consume proncipalmente en conserva.
 						</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
 							<strong>PROPIEDADES ESPECÍFICAS:</strong>
 						</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
 							<strong>Nombre Científico: </strong>Ananas comosus.
 						</p>
 						<p>&nbsp;</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
 							<strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
 						</p>
 						<div>
@@ -129,73 +128,74 @@
 							</table>
 						</div>
 						<p>&nbsp;</p>
-						<p class="my-4 text-sm text-gray-900 uppercase antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 uppercase antialiased">
 							<strong>Características organolépticas:</strong>
 						</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
 							La piña aporta vitaminas C, A, E y de todo el complejo B, hay que resaltar que 150g de piña proporciona 80 mg de vitamina C, tiene un alto contenido en minerales. Es adecuado en dietas de control de peso por su bajo contenido en calorías, tiene propiedades diuréticas y depurativas por su alto nivel de potasio.
 						</p>
 						<p>&nbsp;</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
 							<strong>Caja de 12 KG: </strong>
 						</p>
-						<p class="my-4 text-sm text-gray-900 antialiased">
+						<p class="text-base font-general font-extralight text-gray-900 antialiased">
 							Largo 398 - Ancho 292 - Alto 60
 						</p>
 					</div>
 				</div>
 			</div>
         </section>
+		<hr class="m-2" />
         <section class="flex items-center m-4">
-            <div class="w-1/3 flex flex-col justify-center items-center m-2">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
                 <div>
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/pitahaya-yellow.png') }}">
                 </div>
                 <div class="justify-center">
-                    <h2 class="text-4xl text-center font-bold uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Pitahaya Amarilla
                     </h2>
                 </div>
             </div>
-            <div class="w-2/3 m-2">
+            <div class="w-1/2 m-2">
                 <div class="flex justify-between">
                     <div>
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Pitahaya amarilla o fruta dragón.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Descripción: </strong>: De aroma intenso, pulpa muy refrescante y dulce, baja en calorías. Escasa de nutrientes, su aporte calórico se debe a los hidratos de carbono, La otra variedad, la roja, posee menos hidratos de carbono, pero mayor contenido en vitamica C.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>Su vida útil a 20°C es de alrededor de 10 a 12 días.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Se consume la pulpa de la Pitahaya en ensaladas, así como en refrescos, mermeladas, jaleas o dulces.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Usos: </strong>Se consume como fruta fresca, pero también por su atractivo color, la hace apropiada como adorno de múltiples postres y cocteles exóticos.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Selenicereus megalanthus.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -225,72 +225,73 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 uppercase antialiased">
+                    <p class="text-base font-general font-extralight uppercase text-gray-900 antialiased">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         La pitahaya amarilla está cubierta de una corteza con espinas que se retiran antes de comercializarlas, la roja carece de espinas, pero ambas tienen una pulpa de color blanco y está llena de semillas negras muy pequeñas que destacan por su efecto laxante.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Caja de 2,5 KG: </strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         Largo 340 - Ancho 235 - Alto 90 - Test 200C 
                     </p>
                 </div>
             </div>
         </section>
+		<hr class="m-2" />
         <section class="flex items-center m-4">
-            <div class="w-1/3 flex flex-col justify-center items-center m-2">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
                 <div>
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/pitahaya-roja.png') }}">
                 </div>
                 <div class="justify-center">
-                    <h2 class="text-4xl text-center font-bold uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Pitahaya Roja
                     </h2>
                 </div>
             </div>
-            <div class="w-2/3 m-2">
+            <div class="w-1/2 m-2">
                 <div class="flex justify-between">
                     <div>
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Pitahaya roja o fruta dragón.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Descripción: </strong>: El fruto contiene Vitamina C y posee propiedades digestivas y desinflamatorias. Es recomendada para mejorar el sistema inmunológico y aumentar las defensas del cuerpo, así también ayuda en la formación de tejidos, huesos, glóbulos rojos y colágeno.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>Su vida útil a 20°C es de alrededor de 10 a 12 días.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Se consume la pulpa de la Pitahaya en ensaladas, así como en refrescos, mermeladas, jaleas o dulces.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Usos: </strong>Se consume como fruta fresca, pero también por su atractivo color, la hace apropiada como adorno de múltiples postres y cocteles exóticos.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Hylocereus undatus.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -320,72 +321,73 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 uppercase antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         La pitahaya es un tesoro desde el punto de vista nutricional, contiene oxidantes, mucilagos, ácido ascórbico, fenoles. Es rica en vitamina C, también contiene vitaminas del grupo B, minerales de calcio, fósforo, hierro y tiene alto contenido de agua y posee proteína vegtal y fibra soluble.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Caja de 4,5 KG: </strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         Largo 400 - Ancho 242 - Alto 138 - Test 250C
                     </p>
                 </div>
             </div>
         </section>
+		<hr class="m-2" />
 		<section class="flex items-center m-4">
-            <div class="w-1/3 flex flex-col justify-center items-center m-2">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
                 <div>
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/mangostino.png') }}">
                 </div>
                 <div>
-                    <h2 class="text-4xl text-center font-bold uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Mangostino
                     </h2>
                 </div>
             </div>
-            <div class="w-2/3 m-2">
+            <div class="w-1/2 m-2">
                 <div class="flex justify-between">
                     <div>
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Mangostino, mangostán o jobo de la india
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Descripción: </strong>Redonda de cáscara gruesa, dura y de color morado. La carta está recubierta internamente con una carne de color lila pálida o púrpura, la pulpa tierne 5 gajos de carne que son similares a una flor cerrada.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>No se debe colocar en lugares donde reciba directamente el sol, para que no se acelere su maduración. Preferible mantenerlo en lugares frescos y con sombra.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Desde que es cosechada la fruta ya puede ser consumida como fruta fresca, también puede prepararse en las ensaladas y batidos
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Usos: </strong>Es una fruta muy utilizada para combatir la fiebre y dolores musculares, debemos buscar que no estén mallugados y que cedan ligeramente cuando los apretamos.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Garcinia mangostana.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -419,72 +421,73 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 uppercase antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
 						Es una fruta que ayuda a combatir los radicales libres y el envejecimiento celular, en su composición se han encontrado 84 tipos de xantonas, moléculas que combaten virus, hongos, bacterias y parásitos, esta fruta contiene vitamina B12 lo que hace que mejore el sistema nervioso y hepático.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Caja de 2,5 KG: </strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         Largo 340 - Ancho 235 - Alto 90 - Test 200C
                     </p>
                 </div>
             </div>
         </section>
+		<hr class="m-2" />
 		<section class="flex items-center m-4">
-            <div class="w-1/3 flex flex-col justify-center items-center m-2">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
                 <div>
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/tomate-arbol.jpg') }}">
                 </div>
                 <div>
-                    <h2 class="text-4xl text-center font-bold uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Tomate de Árbol
                     </h2>
                 </div>
             </div>
-            <div class="w-2/3 m-2">
+            <div class="w-1/2 m-2">
                 <div class="flex justify-between">
                     <div>
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Tomate de árbol, tomatillo o tomate andino.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Descripción: </strong> Se cultiva en zonas tropicales, su color varía entere el rojo, amrillo y naranja. Es un fruto muy rico en vitaminas y minerales esenciales, especialmente la provitamina A, vitamina B6, C y E. Entre los minerales predominan el calcio, hierro, fósforo y magnesio.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>Su vida útil a 18°C y 22°C y precipitaciones de 600 a 800 mm anuales. Es de alrededor de 10 a 12 días.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Se puede consumir la pulpa al natural ó en ensaladas, así como procesada en refrescos, mermeladas, jaleas o dulces
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Usos: </strong>Se consume como fruta fresca, pero también para preparar postres y mermeladas.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Hylocereus undatus.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -522,75 +525,76 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 uppercase antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         El tomate de árbol es fuente de betacarotenos, vitamina C, vitamina E y hierro. Presenta además contenidos altos de potasio, magnesio y fósforo, es un fruto ovoide con piel lisa y brillante. Su color varía desde el verde en estado inmaduro hasta amarillo, anaranjado, rojo, púrpura oscuro y jaspeado de diferentes matices en su madurez.
 					</p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Caja de 2,5 KG: </strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         Largo 340 - Ancho 235 - Alto 90 - Test 200C
                     </p>
                 </div>
             </div>
         </section>
+		<hr class="m-2" />
 		<section class="flex items-center m-4">
-            <div class="w-1/3 flex flex-col justify-center items-center m-2">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
                 <div>
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/mango.png') }}">
                 </div>
                 <div>
-                    <h2 class="text-4xl text-center font-bold uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Mango
                     </h2>
                 </div>
             </div>
-            <div class="w-2/3 m-2">
+            <div class="w-1/2 m-2">
                 <div class="flex justify-between">
                     <div>
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Mango o melocotón de los trópicos.
                     </p>
-					<p class="my-4 text-sm text-gray-900 antialiased">
+					<p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Variedades: </strong>Tommy Atkins, Haden, Kent,
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Descripción: </strong>Mangos frescos, sanos y limpios de la especie Manguífera indicada para el mercado de consumo fresco.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>La vida útil del producto está en función a la madurez fisiológica del fruto y se tiene promedio de: 7-8° Brix: 30-50 días, de 8-9° Brix: 20-35 días.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>El producto es para consumo en el hogar, bien como fruta entera o en preparaciones caseras de jugos, mermeladas, etc. Y está destinada al público en general.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Usos: </strong>El mango es una fruta perfecta para consumir fresca y en trozos, porque de esta manera aprovechamos su sabor dulce y obtenemos la saciedad que su ingesta puede ofrecer, además de todos sus antioxidantes. Podemos incluirlo como postre o snack saludable.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Solanum betaceum.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -616,65 +620,66 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 uppercase antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         Producto refrigerado muy susceptible a los cambios de temperatura en las etapas de almacenamiento, distribución y comercialización. Debe conservarse a una temperatura de 9 a 10°C para las variedades Haden, Tommy y Kent.
 					</p>
                 </div>
             </div>
         </section>
+		<hr class="m-2" />
 		<section class="flex items-center m-4">
-            <div class="w-1/3 flex flex-col justify-center items-center m-2">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
                 <div>
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/granadilla.png') }}">
                 </div>
                 <div>
-                    <h2 class="text-4xl text-center font-bold uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Granadilla
                     </h2>
                 </div>
             </div>
-            <div class="w-2/3 m-2">
+            <div class="w-1/2 m-2">
                 <div class="flex justify-between">
                     <div>
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Granadilla o Golden Passion Fruit.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Descripción: </strong>El fruto de la grsanadilla es de forma elíptica y de color amarillo-naranja cuando logra su maduración, su pulpa de color gris tiene un perfume aromático y está caracterizada por la presencia de pequeñas semillas negras, es el fruto más dulce entre los frutos de la pasión.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>Dejar a temperatura ambiente para que se madure y su sabor se suavice y dulcifique, consumirse antes de 10 días o una vez madura puede guardarse en la nevera durante 1 semana.
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Se consume como fruta fresca, se rompe la cáscara con los dedos y se come la pulpa con cuchara, también se obtiene una rica bebida o consumir en ensaladas.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Usos: </strong>El extracto de la granadilla se utiliza para preparar helados, soufflés, salsa y yogurt.
 					</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Passiflora ligularis.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -712,17 +717,17 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 uppercase antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         Posee una excelente fuente de sodio, calcio, fósforo, hierro y fibra, ayuda a proveer vitaminas esenciales para el cuerpo como la vitamina B1, B2, C y la provitamina A. El consumo de la granadilla se recomienda para la estabilización de los nervios ya que funciona como sedante o tranquilizante natural.
 					</p>
                     <p>&nbsp;</p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         <strong>Caja de 2,5 KG: </strong>
                     </p>
-                    <p class="my-4 text-sm text-gray-900 antialiased">
+                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
                         Largo 380 - Ancho 280 - Alto 85 - Test 250C
                     </p>
                 </div>
@@ -735,13 +740,13 @@
         <div class="flex justify-around">
             <div class="flex flex-col items-center">
                 <div>
-                    <p class="antialiased uppercase text-white mx-2 text-xl">Contact Info: <strong>Víctor Pérez</strong></p>
+                    <p class="antialiased font-general font-extralight uppercase text-white mx-2 text-3xl">Contact Info: <strong>Víctor Pérez</strong></p>
                 </div>
                 <div>
-                    <p class="antialiased text-white mx-2 text-xl">General Manager</p>
+                    <p class="antialiased font-general font-extralight text-white mx-2 text-3xl">General Manager</p>
                 </div>
                 <div>
-                    <a href="mailto:vperez@ekinoxproducts.com" class="antialiased text-white mx-2 text-xl hover:underline">vperez@ekinoxproducts.com</a>
+                    <a href="mailto:vperez@ekinoxproducts.com" class="antialiased font-general font-extralight text-white mx-2 text-2xl hover:underline">vperez@ekinoxproducts.com</a>
                 </div>
             </div>
             <div class="flex flex-col items-center">
@@ -749,7 +754,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="white">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" />
                     </svg>
-                    <p class="antialiased font-bold text-white mx-2 text-xl">+593 984605964</p>
+                    <p class="antialiased font-general font-extralight text-white mx-2 text-3xl">+593 984605964</p>
                     <svg class="fill-current text-verde bg-white rounded-full" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                         <path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.006c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.86s.274.072.376-.043c.101-.116.433-.506.549-.68.116-.173.231-.145.39-.087s1.011.477 1.184.564.289.13.332.202c.045.072.045.419-.1.824zm-3.423-14.416c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm.029 18.88c-1.161 0-2.305-.292-3.318-.844l-3.677.964.984-3.595c-.607-1.052-.927-2.246-.926-3.468.001-3.825 3.113-6.937 6.937-6.937 1.856.001 3.598.723 4.907 2.034 1.31 1.311 2.031 3.054 2.03 4.908-.001 3.825-3.113 6.938-6.937 6.398z"/>
                     </svg>
@@ -758,7 +763,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="white">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                     </svg>
-                    <p class="antialiased font-bold text-white mx-2 text-xl">+593 22373513</p>
+                    <p class="antialiased font-general font-extralight text-white mx-2 text-3xl">+593 22373513</p>
                 </div>
             </div>
         </div>
