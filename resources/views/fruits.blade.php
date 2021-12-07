@@ -53,7 +53,7 @@
 							<p>&nbsp;</p>
 						</div>
 						<div>
-							<img class="w-auto h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+							<img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
 						</div>
 						<div>
 							<p>&nbsp;</p>
