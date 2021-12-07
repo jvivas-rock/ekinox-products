@@ -41,7 +41,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/cacao-1.png') }}">
                 </div>
                 <div>
-                	<h2 class="text-4xl font-general text-center font-normal uppercase">
+                	<h2 class="text-7xl font-general text-center font-normal uppercase">
                 		Cacao en Grano
                 	</h2>
                 </div>
@@ -152,7 +152,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/cacao_nibs.png') }}">
                 </div>
                 <div>
-                	<h2 class="text-4xl font-general text-center font-normal uppercase">
+                	<h2 class="text-7xl font-general text-center font-normal uppercase">
                 		Nibs de Cacao
                 	</h2>
                 </div>
