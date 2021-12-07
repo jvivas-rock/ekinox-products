@@ -6,7 +6,7 @@
         <p>&nbsp;</p>
     </div>
     <div>
-        <h2 class="antialiased font-bold text-4xl uppercase text-gray-100">¿Quiénes Somos?</h2>
+        <h2 class="antialiased font-extralight text-4xl font-general uppercase text-gray-100">¿Quiénes Somos?</h2>
     </div>
     <div class="flex">
         <p>&nbsp;</p>
