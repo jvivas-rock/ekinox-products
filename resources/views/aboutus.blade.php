@@ -42,7 +42,7 @@
                     <p>&nbsp;</p>
                 </div>
                 <div>
-                    <img class="w-full h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    <img class="w-auto h-48 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                 </div>
                 <div>
                     <p>&nbsp;</p>
