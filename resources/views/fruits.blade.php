@@ -152,7 +152,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/pitahaya-yellow.png') }}">
                 </div>
                 <div class="justify-center">
-                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                    <h2 class="text-6xl font-general text-center font-normal uppercase">
                         Pitahaya Amarilla
                     </h2>
                 </div>
