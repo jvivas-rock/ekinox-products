@@ -42,7 +42,7 @@
 						<img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/pineapple.png') }}">
 					</div>
 					<div class="justify-center">
-						<h2 class="text-5xl font-general text-center font-normal uppercase">
+						<h2 class="text-4xl font-general text-center font-normal uppercase">
 							Piña
 						</h2>
 					</div>
@@ -152,7 +152,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/pitahaya-yellow.png') }}">
                 </div>
                 <div class="justify-center">
-                    <h2 class="text-5xl font-general text-center font-normal uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Pitahaya Amarilla
                     </h2>
                 </div>
@@ -248,7 +248,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/pitahaya-roja.png') }}">
                 </div>
                 <div class="justify-center">
-                    <h2 class="text-5xl font-general text-center font-normal uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Pitahaya Roja
                     </h2>
                 </div>
@@ -344,7 +344,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/mangostino-3.png') }}">
                 </div>
                 <div>
-                    <h2 class="text-5xl font-general text-center font-normal uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Mangostino
                     </h2>
                 </div>
@@ -444,7 +444,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/tomate-arbol.jpg') }}">
                 </div>
                 <div>
-                    <h2 class="text-5xl font-general text-center font-normal uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Tomate de Árbol
                     </h2>
                 </div>
@@ -548,7 +548,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/mango.png') }}">
                 </div>
                 <div>
-                    <h2 class="text-5xl font-general text-center font-normal uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Mango
                     </h2>
                 </div>
@@ -636,7 +636,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/granadilla.png') }}">
                 </div>
                 <div>
-                    <h2 class="text-5xl font-general text-center font-normal uppercase">
+                    <h2 class="text-4xl font-general text-center font-normal uppercase">
                         Granadilla
                     </h2>
                 </div>
