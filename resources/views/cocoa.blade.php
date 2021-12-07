@@ -52,20 +52,20 @@
                     	<p>&nbsp;</p>
                 	</div>
                 	<div>
-                    	<img class="w-full h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    	<img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                 	</div>
                 	<div>
                     	<p>&nbsp;</p>
                 	</div>
             	</div>
             	<div class="m-2">
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	El cacao o Theobroma cacao es una planta originaria de la Cuenca del amazonas, que crece en zonas húmedas.
                     </p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	Produce un fruto que se utiliza como ingrediente para alimentos entre los cuales se encuentran: el chocolate, licor de cacao, manteca de cacao, nibs, entre otros.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	Ecuador es el mayor productor en el mundo del CACAO FINO DE AROMA y produce el 60% del mismo.
                 	</p>
             	</div>
@@ -80,22 +80,22 @@
         	</div>
         	<div class="w-2/3 flex flex-col justify-center items-center m-2">
         		<div>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				Nuestra empresa está clasificada como exportadora de frutas y cacao. Tenemos 18 meses en el mercado ecuatoriano manteniendo una oficina matriz en Quito, Ecuador y su oficina principal en el puerto de Guayaquil. Tenemos una capacidad de entrega de cacao mensual de 2 contenedores de 40 pies.
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				Contamos con 3 variedades: Cacao CCN51, Arriba y Orgánico
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				La variedad CCN51 se produce en el cantón Balzar, área que cuenta con las características climáticas ideales para su desarrollo. En los análisis del suelo y fruta no se han detectado presencia de cadmio ni otros metales pesados.
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				La variedad Arriba, conocida también como Cacao Fino de Aroma es distintiva y emblemática del Ecuador y se distingue en por su aroma, sabor y textura. Es utilizado en chocolates refinados y gourmets.
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				El Cacao Orgánico es un cultivo de origen natural responsable con el medio ambiente sin uso de pesticidas, cuenta con sus respectivas certificaciones otrorgadas por entidades competentes, mIsmas que lo avalan. 
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				Debe ser perfectamente fermentado, sus características son: Color café por fuera con cascarilla de fácil desprendimientro, grano de color café con un gran olor a chocolate, aromático y agradable. son despacahados en lotes, acompañados de sus certificados.
         			</p>
         		</div>
@@ -163,39 +163,39 @@
                     	<p>&nbsp;</p>
                 	</div>
                 	<div>
-                    	<img class="w-full h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    	<img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                 	</div>
                 	<div>
                     	<p>&nbsp;</p>
                 	</div>
             	</div>
             	<div class="m-2">
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	Los <strong>NIBS</strong> son pequeños trozos de granos de cacao fragmentados, con sabor a chocolate.
                     </p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	Propiedades de los NIBS:
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Excelente fuente de fibra y grasas saludables.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Su ingesta ayuda a promover la sensación de saciedad.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Ricos en fósforo, magnesio y manganeso vitales para huesos sanos.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Ricos en hierro, necesarios para la producción de globulos rojos.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Son antioxidantes, reduciendo y estabiizando la presión arterial, previniendo paros cardíacos.
                 	</p>
                     <p>&nbsp;</p>
-                    <p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	<strong>Opciones de envío:</strong>
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- En cajas / bolsas de 20 o 25 KG.
             	</div>
             </div>

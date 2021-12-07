@@ -52,20 +52,20 @@
                     	<p>&nbsp;</p>
                 	</div>
                 	<div>
-                    	<img class="w-full h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    	<img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                 	</div>
                 	<div>
                     	<p>&nbsp;</p>
                 	</div>
             	</div>
             	<div class="m-2">
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	El cacao o Theobroma cacao es una planta originaria de la Cuenca del amazonas, que crece en zonas húmedas.
                     </p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	Produce un fruto que se utiliza como ingrediente para alimentos entre los cuales se encuentran: el chocolate, licor de cacao, manteca de cacao, nibs, entre otros.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	Ecuador es el mayor productor en el mundo del CACAO FINO DE AROMA y produce el 60% del mismo.
                 	</p>
             	</div>
@@ -80,22 +80,22 @@
         	</div>
         	<div class="w-2/3 flex flex-col justify-center items-center m-2">
         		<div>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				Nuestra empresa está clasificada como exportadora de frutas y cacao. Tenemos 18 meses en el mercado ecuatoriano manteniendo una oficina matriz en Quito, Ecuador y su oficina principal en el puerto de Guayaquil. Tenemos una capacidad de entrega de cacao mensual de 2 contenedores de 40 pies.
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				Contamos con 3 variedades: Cacao CCN51, Arriba y Orgánico
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				La variedad CCN51 se produce en el cantón Balzar, área que cuenta con las características climáticas ideales para su desarrollo. En los análisis del suelo y fruta no se han detectado presencia de cadmio ni otros metales pesados.
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				La variedad Arriba, conocida también como Cacao Fino de Aroma es distintiva y emblemática del Ecuador y se distingue en por su aroma, sabor y textura. Es utilizado en chocolates refinados y gourmets.
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				El Cacao Orgánico es un cultivo de origen natural responsable con el medio ambiente sin uso de pesticidas, cuenta con sus respectivas certificaciones otrorgadas por entidades competentes, mIsmas que lo avalan. 
         			</p>
-        			<p class="text-xl font-general font-extralight text-gray-900 antialiased">
+        			<p class="text-sm font-sans font-normal text-gray-900 antialiased">
         				Debe ser perfectamente fermentado, sus características son: Color café por fuera con cascarilla de fácil desprendimientro, grano de color café con un gran olor a chocolate, aromático y agradable. son despacahados en lotes, acompañados de sus certificados.
         			</p>
         		</div>
@@ -163,39 +163,39 @@
                     	<p>&nbsp;</p>
                 	</div>
                 	<div>
-                    	<img class="w-full h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    	<img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                 	</div>
                 	<div>
                     	<p>&nbsp;</p>
                 	</div>
             	</div>
             	<div class="m-2">
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	Los <strong>NIBS</strong> son pequeños trozos de granos de cacao fragmentados, con sabor a chocolate.
                     </p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	Propiedades de los NIBS:
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Excelente fuente de fibra y grasas saludables.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Su ingesta ayuda a promover la sensación de saciedad.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Ricos en fósforo, magnesio y manganeso vitales para huesos sanos.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Ricos en hierro, necesarios para la producción de globulos rojos.
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- Son antioxidantes, reduciendo y estabiizando la presión arterial, previniendo paros cardíacos.
                 	</p>
                     <p>&nbsp;</p>
-                    <p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	<strong>Opciones de envío:</strong>
                 	</p>
-                	<p class="text-2xl font-general font-extralight text-gray-900 antialiased">
+                	<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                     	- En cajas / bolsas de 20 o 25 KG.
             	</div>
             </div>
@@ -219,36 +219,36 @@
 							<p>&nbsp;</p>
 						</div>
 						<div>
-							<img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+							<img class="w-auto h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
 						</div>
 						<div>
 							<p>&nbsp;</p>
 						</div>
 					</div>
 					<div class="m-2">
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
-							<strong class="font-normal">Nombre Comercial: </strong>Piña tropical o ananás.
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
+							<strong>Nombre Comercial: </strong>Piña tropical o ananás.
 						</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
-							<strong class="font-normal">PROPIEDADES GENERALES:</strong>
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
+							<strong>PROPIEDADES GENERALES:</strong>
 						</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							<strong>Descripción: </strong>De fragancia muy singular, hermoso color y agradable sabor agridulce. Se come cruda o como ingrediente en zumos, conservas, licores, etc. El fruto y las hojas se usan en la preparación de compuestos medicinales.
 						</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							<strong>Vida Útil: </strong>Condiciones de almacenamiento de 20°C y 85% de H.R. presenta un período de vida útil de 18 días.
 						</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							<strong>Formas de Consumo: </strong>Se consume proncipalmente en conserva.
 						</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							<strong>PROPIEDADES ESPECÍFICAS:</strong>
 						</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							<strong>Nombre Científico: </strong>Ananas comosus.
 						</p>
 						<p>&nbsp;</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							<strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
 						</p>
 						<div>
@@ -294,17 +294,17 @@
 							</table>
 						</div>
 						<p>&nbsp;</p>
-						<p class="text-base font-general font-extralight text-gray-900 uppercase antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 uppercase antialiased">
 							<strong>Características organolépticas:</strong>
 						</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							La piña aporta vitaminas C, A, E y de todo el complejo B, hay que resaltar que 150g de piña proporciona 80 mg de vitamina C, tiene un alto contenido en minerales. Es adecuado en dietas de control de peso por su bajo contenido en calorías, tiene propiedades diuréticas y depurativas por su alto nivel de potasio.
 						</p>
 						<p>&nbsp;</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							<strong>Caja de 12 KG: </strong>
 						</p>
-						<p class="text-base font-general font-extralight text-gray-900 antialiased">
+						<p class="text-sm font-sans font-normal text-gray-900 antialiased">
 							Largo 398 - Ancho 292 - Alto 60
 						</p>
 					</div>
@@ -329,39 +329,39 @@
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-auto h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Pitahaya amarilla o fruta dragón.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Descripción: </strong>: De aroma intenso, pulpa muy refrescante y dulce, baja en calorías. Escasa de nutrientes, su aporte calórico se debe a los hidratos de carbono, La otra variedad, la roja, posee menos hidratos de carbono, pero mayor contenido en vitamica C.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>Su vida útil a 20°C es de alrededor de 10 a 12 días.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Se consume la pulpa de la Pitahaya en ensaladas, así como en refrescos, mermeladas, jaleas o dulces.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Usos: </strong>Se consume como fruta fresca, pero también por su atractivo color, la hace apropiada como adorno de múltiples postres y cocteles exóticos.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Selenicereus megalanthus.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -391,17 +391,17 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight uppercase text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal uppercase text-gray-900 antialiased">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         La pitahaya amarilla está cubierta de una corteza con espinas que se retiran antes de comercializarlas, la roja carece de espinas, pero ambas tienen una pulpa de color blanco y está llena de semillas negras muy pequeñas que destacan por su efecto laxante.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Caja de 2,5 KG: </strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         Largo 340 - Ancho 235 - Alto 90 - Test 200C 
                     </p>
                 </div>
@@ -425,39 +425,39 @@
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-auto h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Pitahaya roja o fruta dragón.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Descripción: </strong>: El fruto contiene Vitamina C y posee propiedades digestivas y desinflamatorias. Es recomendada para mejorar el sistema inmunológico y aumentar las defensas del cuerpo, así también ayuda en la formación de tejidos, huesos, glóbulos rojos y colágeno.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>Su vida útil a 20°C es de alrededor de 10 a 12 días.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Se consume la pulpa de la Pitahaya en ensaladas, así como en refrescos, mermeladas, jaleas o dulces.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Usos: </strong>Se consume como fruta fresca, pero también por su atractivo color, la hace apropiada como adorno de múltiples postres y cocteles exóticos.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Hylocereus undatus.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -487,17 +487,17 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         La pitahaya es un tesoro desde el punto de vista nutricional, contiene oxidantes, mucilagos, ácido ascórbico, fenoles. Es rica en vitamina C, también contiene vitaminas del grupo B, minerales de calcio, fósforo, hierro y tiene alto contenido de agua y posee proteína vegtal y fibra soluble.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Caja de 4,5 KG: </strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         Largo 400 - Ancho 242 - Alto 138 - Test 250C
                     </p>
                 </div>
@@ -521,39 +521,39 @@
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-auto h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Mangostino, mangostán o jobo de la india
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Descripción: </strong>Redonda de cáscara gruesa, dura y de color morado. La carta está recubierta internamente con una carne de color lila pálida o púrpura, la pulpa tierne 5 gajos de carne que son similares a una flor cerrada.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>No se debe colocar en lugares donde reciba directamente el sol, para que no se acelere su maduración. Preferible mantenerlo en lugares frescos y con sombra.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Desde que es cosechada la fruta ya puede ser consumida como fruta fresca, también puede prepararse en las ensaladas y batidos
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Usos: </strong>Es una fruta muy utilizada para combatir la fiebre y dolores musculares, debemos buscar que no estén mallugados y que cedan ligeramente cuando los apretamos.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Garcinia mangostana.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -587,17 +587,17 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
 						Es una fruta que ayuda a combatir los radicales libres y el envejecimiento celular, en su composición se han encontrado 84 tipos de xantonas, moléculas que combaten virus, hongos, bacterias y parásitos, esta fruta contiene vitamina B12 lo que hace que mejore el sistema nervioso y hepático.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Caja de 2,5 KG: </strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         Largo 340 - Ancho 235 - Alto 90 - Test 200C
                     </p>
                 </div>
@@ -621,39 +621,39 @@
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-auto h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Tomate de árbol, tomatillo o tomate andino.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Descripción: </strong> Se cultiva en zonas tropicales, su color varía entere el rojo, amrillo y naranja. Es un fruto muy rico en vitaminas y minerales esenciales, especialmente la provitamina A, vitamina B6, C y E. Entre los minerales predominan el calcio, hierro, fósforo y magnesio.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>Su vida útil a 18°C y 22°C y precipitaciones de 600 a 800 mm anuales. Es de alrededor de 10 a 12 días.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Se puede consumir la pulpa al natural ó en ensaladas, así como procesada en refrescos, mermeladas, jaleas o dulces
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Usos: </strong>Se consume como fruta fresca, pero también para preparar postres y mermeladas.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Hylocereus undatus.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -691,17 +691,17 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         El tomate de árbol es fuente de betacarotenos, vitamina C, vitamina E y hierro. Presenta además contenidos altos de potasio, magnesio y fósforo, es un fruto ovoide con piel lisa y brillante. Su color varía desde el verde en estado inmaduro hasta amarillo, anaranjado, rojo, púrpura oscuro y jaspeado de diferentes matices en su madurez.
 					</p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Caja de 2,5 KG: </strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         Largo 340 - Ancho 235 - Alto 90 - Test 200C
                     </p>
                 </div>
@@ -725,42 +725,42 @@
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-auto h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Mango o melocotón de los trópicos.
                     </p>
-					<p class="text-base font-general font-extralight text-gray-900 antialiased">
+					<p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Variedades: </strong>Tommy Atkins, Haden, Kent,
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Descripción: </strong>Mangos frescos, sanos y limpios de la especie Manguífera indicada para el mercado de consumo fresco.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>La vida útil del producto está en función a la madurez fisiológica del fruto y se tiene promedio de: 7-8° Brix: 30-50 días, de 8-9° Brix: 20-35 días.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>El producto es para consumo en el hogar, bien como fruta entera o en preparaciones caseras de jugos, mermeladas, etc. Y está destinada al público en general.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Usos: </strong>El mango es una fruta perfecta para consumir fresca y en trozos, porque de esta manera aprovechamos su sabor dulce y obtenemos la saciedad que su ingesta puede ofrecer, además de todos sus antioxidantes. Podemos incluirlo como postre o snack saludable.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Solanum betaceum.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -786,10 +786,10 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         Producto refrigerado muy susceptible a los cambios de temperatura en las etapas de almacenamiento, distribución y comercialización. Debe conservarse a una temperatura de 9 a 10°C para las variedades Haden, Tommy y Kent.
 					</p>
                 </div>
@@ -799,7 +799,7 @@
 		<section class="flex items-center m-4">
             <div class="w-1/2 flex flex-col justify-center items-center m-2">
                 <div>
-                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/granadilla.png') }}">
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/granadilla.jpg') }}">
                 </div>
                 <div>
                     <h2 class="text-4xl font-general text-center font-normal uppercase">
@@ -813,39 +813,39 @@
                         <p>&nbsp;</p>
                     </div>
                     <div>
-                        <img class="w-full h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                        <img class="w-auto h-20 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                     </div>
                     <div>
                         <p>&nbsp;</p>
                     </div>
                 </div>
                 <div class="m-2">
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Comercial: </strong>Granadilla o Golden Passion Fruit.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES GENERALES:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Descripción: </strong>El fruto de la grsanadilla es de forma elíptica y de color amarillo-naranja cuando logra su maduración, su pulpa de color gris tiene un perfume aromático y está caracterizada por la presencia de pequeñas semillas negras, es el fruto más dulce entre los frutos de la pasión.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Vida Útil: </strong>Dejar a temperatura ambiente para que se madure y su sabor se suavice y dulcifique, consumirse antes de 10 días o una vez madura puede guardarse en la nevera durante 1 semana.
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Formas de Consumo: </strong>Se consume como fruta fresca, se rompe la cáscara con los dedos y se come la pulpa con cuchara, también se obtiene una rica bebida o consumir en ensaladas.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Usos: </strong>El extracto de la granadilla se utiliza para preparar helados, soufflés, salsa y yogurt.
 					</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES ESPECÍFICAS:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Nombre Científico: </strong>Passiflora ligularis.
                     </p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
                     </p>
                     <div>
@@ -883,17 +883,17 @@
                         </table>
                     </div>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased uppercase">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
                         <strong>Características organolépticas:</strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         Posee una excelente fuente de sodio, calcio, fósforo, hierro y fibra, ayuda a proveer vitaminas esenciales para el cuerpo como la vitamina B1, B2, C y la provitamina A. El consumo de la granadilla se recomienda para la estabilización de los nervios ya que funciona como sedante o tranquilizante natural.
 					</p>
                     <p>&nbsp;</p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         <strong>Caja de 2,5 KG: </strong>
                     </p>
-                    <p class="text-base font-general font-extralight text-gray-900 antialiased">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
                         Largo 380 - Ancho 280 - Alto 85 - Test 250C
                     </p>
                 </div>
