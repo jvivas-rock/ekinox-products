@@ -41,7 +41,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/cacao-1.png') }}">
                 </div>
                 <div>
-                	<h2 class="text-6xl font-general text-center font-normal uppercase">
+                	<h2 class="text-4xl font-general text-center font-normal uppercase">
                 		Cacao en Grano
                 	</h2>
                 </div>
@@ -52,7 +52,7 @@
                     	<p>&nbsp;</p>
                 	</div>
                 	<div>
-                    	<img class="w-auto h-24 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    	<img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                 	</div>
                 	<div>
                     	<p>&nbsp;</p>
@@ -152,7 +152,7 @@
                     <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/cacao_nibs.png') }}">
                 </div>
                 <div>
-                	<h2 class="text-6xl font-general text-center font-normal uppercase">
+                	<h2 class="text-4xl font-general text-center font-normal uppercase">
                 		Nibs de Cacao
                 	</h2>
                 </div>
@@ -163,7 +163,7 @@
                     	<p>&nbsp;</p>
                 	</div>
                 	<div>
-                    	<img class="w-auto h-24 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    	<img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                 	</div>
                 	<div>
                     	<p>&nbsp;</p>
