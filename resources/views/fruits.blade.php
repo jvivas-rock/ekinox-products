@@ -633,7 +633,7 @@
 		<section class="flex items-center m-4">
             <div class="w-1/2 flex flex-col justify-center items-center m-2">
                 <div>
-                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/granadilla.jpg') }}">
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/granadilla.png') }}">
                 </div>
                 <div>
                     <h2 class="text-4xl font-general text-center font-normal uppercase">
