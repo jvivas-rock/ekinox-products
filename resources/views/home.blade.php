@@ -43,7 +43,7 @@
         <section>
             <div class="flex m-2">
                 <div>
-                    <img class="w-full h-full m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    <img class="w-auto h-full m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
                 </div>
                 <div class="flex flex-col mx-2 align-center max-h-auto items-center justify-between">
                     <div class="mb-14">
