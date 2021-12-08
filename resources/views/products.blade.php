@@ -899,6 +899,743 @@
                 </div>
             </div>
         </section>
+		<hr class="m-2" />
+		<section class="flex items-center m-4">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
+                <div>
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/malanga.png') }}">
+                </div>
+                <div>
+                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                        Malanga
+                    </h2>
+                </div>
+            </div>
+            <div class="w-1/2 m-2">
+                <div class="flex justify-between">
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div>
+                        <img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    </div>
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="m-2">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Comercial: </strong>Malanga o Taro.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES GENERALES:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Descripción: </strong>Tubérculo originario de países tropicales y subtropicales, que cuenta con una cantidad importante de vitaminas.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Vida Útil: </strong>Tubérculo de ciclo corto que se siembra y cosecha durante todo el año.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Tipo de Fruta: </strong>Contiene sustancias nutritivas, carbohidratos y proteínas. Posee grandes cantidades de fibra dietética que ayuda a regular y acelerar el proceso digestivo y a disminuir el colesterol en el cuerpo.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Empaque: </strong>Cajas de 36 lbs, 40 lbs, 50 lbs dependiendo del requerimiento del cliente.
+					</p>
+					<p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Trazabilidad: </strong>Mediante el uso de etiqueta en fruta y paletas con código en finca, semana y día de empaque.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES ESPECÍFICAS:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Científico: </strong>Xanthosoma Sagittifolium.
+                    </p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
+                    </p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="border border-black">Humedad 6,66</td>
+                                    <td class="border border-black">Calcio 8,86 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Cobre 9 mg</td>
+                                    <td class="border border-black">Hierro 2,11 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Zinc 2,71 mg</td>
+                                    <td class="border border-black">Potasio 137,6 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Proteínas 6,4 g</td>
+                                    <td class="border border-black">Magnesio 7,26 mg</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
+                        <strong>Características organolépticas:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Color marrón (a veces peluda), sabor más nudoso que recuerda a los frutos secos.
+					</p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Caja de 16 KG: </strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Largo 510 - Ancho 338 - Alto 189
+                    </p>
+                </div>
+            </div>
+        </section>
+		<hr class="m-2" />
+		<section class="flex items-center m-4">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
+                <div>
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/malanga-lila.png') }}">
+                </div>
+                <div>
+                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                        Malanga Lila
+                    </h2>
+                </div>
+            </div>
+            <div class="w-1/2 m-2">
+                <div class="flex justify-between">
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div>
+                        <img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    </div>
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="m-2">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Comercial: </strong>Malanga o Taro.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES GENERALES:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Descripción: </strong>Tubérculo originario de países tropicales y subtropicales, que cuenta con una cantidad importante de vitaminas.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Vida Útil: </strong>Tubérculo de ciclo corto que se siembra y cosecha durante todo el año.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Tipo de Fruta: </strong>Contiene sustancias nutritivas, carbohidratos y proteínas. Posee grandes cantidades de fibra dietética que ayuda a regular y acelerar el proceso digestivo y a disminuir el colesterol en el cuerpo.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Empaque: </strong>Cajas de 36 lbs, 40 lbs, 50 lbs dependiendo del requerimiento del cliente.
+					</p>
+					<p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Trazabilidad: </strong>Mediante el uso de etiqueta en fruta y paletas con código en finca, semana y día de empaque.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES ESPECÍFICAS:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Científico: </strong>Xanthosoma Sagittifolium.
+                    </p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
+                    </p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="border border-black">Humedad 6,66</td>
+                                    <td class="border border-black">Calcio 8,86 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Cobre 9 mg</td>
+                                    <td class="border border-black">Hierro 2,11 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Zinc 2,71 mg</td>
+                                    <td class="border border-black">Potasio 137,6 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Proteínas 6,4 g</td>
+                                    <td class="border border-black">Magnesio 7,26 mg</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
+                        <strong>Características organolépticas:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Color marrón (a veces peluda), sabor más nudoso que recuerda a los frutos secos.
+					</p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Caja de 16 KG: </strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Largo 510 - Ancho 338 - Alto 189
+                    </p>
+                </div>
+            </div>
+        </section>
+		<hr class="m-2" />
+		<section class="flex items-center m-4">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
+                <div>
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/lulo.png') }}">
+                </div>
+                <div>
+                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                        Naranjilla
+                    </h2>
+                </div>
+            </div>
+            <div class="w-1/2 m-2">
+                <div class="flex justify-between">
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div>
+                        <img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    </div>
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="m-2">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Comercial: </strong>Naranjilla, coconilla, uva de monte, obando o nuquí.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES GENERALES:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Descripción: </strong>Presenta hojas de gran tamaño, aterciopelados, cubiertos de pelos cortos de color púrpura de 30 a 45 cm de largo. Son de forma oblonga ovalada, con los bordes ondulados y con un pecíolo hasta 15 cm, con ángulos de inserción obtusos o agudos, para captar la luz que pasa a través del bosque.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Vida Útil: </strong>Durante la maduración, pierde el color verde y gana tonalidades amarillo-naranja-rojo. Es climatérica, con buena acidez, sensible al daño por frío a temperaturas < 7°C y con baja vida útil postcosecha.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Formas de Consumo: </strong>Normalmente puede consumirse fresco o en jugo, en ambos casos sus múltiples propiedades influyen positivamente en el organismo. 
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Usos: </strong>Con materia prima en la fabricación de pulpas, bebidas como jugo, concentrados frutales y salsas; además de dulces procesados tanto de forma artesanal como industrial, tales como mermeladas, conservas y helados, también es notable su uso en postres frutales.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES ESPECÍFICAS:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Científico: </strong>Solanum quitoense.
+                    </p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
+                    </p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="border border-black">Calorías 30 kcal</td>
+                                    <td class="border border-black">Vitamina B11 0,1 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Proteínas 0,5 g</td>
+                                    <td class="border border-black">Vitamina B3 1,7 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Agua 111,7%</td>
+                                    <td class="border border-black">Vitamina C 3,8 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Vitamina B1 0,1 mg</td>
+                                    <td class="border border-black">Azúcares 4,5 g</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
+                        <strong>Características organolépticas:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        El fruto, parecido al tomate, es ovoide, de 4 a cm de diámetro, con cáscara amarilla, anaranjada o parda, cubierta de pequeñas y finas espinas o "vellos". Internamente se divide en cuatro compartimientos separados por particiones membranosas, llenas de pulpa de color verdoso o amarillento y numerosas semillas pequeñas y blanquesinas.
+					</p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Caja de 4,5 KG: </strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Largo 340 - Ancho 235 - Alto 90 - Test 200C
+                    </p>
+                </div>
+            </div>
+        </section>
+		<hr class="m-2" />
+		<section class="flex items-center m-4">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
+                <div>
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/uvillas.png') }}">
+                </div>
+                <div>
+                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                        Uvilla
+                    </h2>
+                </div>
+            </div>
+            <div class="w-1/2 m-2">
+                <div class="flex justify-between">
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div>
+                        <img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    </div>
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="m-2">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Comercial: </strong>Uvilla, uva serrana o uchuva.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES GENERALES:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Descripción: </strong>Está llena de beneficios nutricionales y es una de las frutas más populares en el Ecuador. Es rica en muchos de los nutrientes más importantes que necesita el cuerpo humano. Es una excelente fuente de vitamina C, que ayuda al sistema inmunitario, vitamina A, un poderoso antioxidante que previene la acumulación de radicales libres y ayuda a la piel, de fibra, imprescindible para la salud digestiva y minerales como calcio, fósforo y hierro. Además, tiene pocas calorías y es una bena alternativa para cuidar el peso corporal.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Vida Útil: Las uvillas pueden tardar de tres a cinco días en madurar si lo almacenas a una temperatura ambiente. Sin embargo, al madurar, ya se puede refrigerar.</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Formas de Consumo: </strong>Los usos de la uvilla no tienen límite. Queda bien al prepararla en batidos, helados, vinagretas para ensaladas o carnes, cocteles y todo tipo de postres. Un zumo de uvilla al empezar el día es ideal para llenar el cuerpo de nutrientes y darle energía. También las puede comer al natural.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES ESPECÍFICAS:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Científico: </strong>Physalis peruvina.
+                    </p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
+                    </p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="border border-black">Humedad 81,26%</td>
+                                    <td class="border border-black">Polifenoles totales 0,56 g</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Vitamina C 100 g</td>
+                                    <td class="border border-black">Carotenoides totales 478,95 g</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Azúcares totales 12,26</td>
+                                    <td class="border border-black">Ácido cítrico 8,96</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Cenizas 1,00%</td>
+                                    <td class="border border-black">Calcio 56 g</td>
+                                </tr>
+								<tr>
+                                    <td class="border border-black">Magnesio 2005 g</td>
+                                    <td class="border border-black">Potasio 4366 mg</td>
+                                </tr>
+								<tr>
+                                    <td class="border border-black">Fósforo 581 g</td>
+                                    <td class="border border-black">Sodio 26 g</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
+                        <strong>Características organolépticas:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        La uvilla es una especie vegetal nativa de los Andes, crece entre 1000 a 3000m de altitud. Es perenne, herbácea, arbustiva y fuertemente ramificada, no climatérica, que se debe consumir cuando el capuchón se haya secado y el fruto se desprenda de la planta espontáneamente.
+					</p>
+                </div>
+            </div>
+        </section>
+		<hr class="m-2" />
+		<section class="flex items-center m-4">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
+                <div>
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/platano-verde.jpg') }}">
+                </div>
+                <div>
+                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                        Plátano Verde
+                    </h2>
+                </div>
+            </div>
+            <div class="w-1/2 m-2">
+                <div class="flex justify-between">
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div>
+                        <img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    </div>
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="m-2">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Comercial: </strong>Plátano verde o plátano.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES GENERALES:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Descripción: </strong>El plátano verde pertenece a la misma familia botánica que el banano común, las musáceas, son de origen asiático y se cultiva en regiones tanto tropicales como subtropicales de América.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Vida Útil: </strong>El plátano durará según a la temperatura en que se encuentre, esto se debe a que es una fruta que está acostumbrada a las temperaturas del trópico y soporta el frío. En la nevera el plátano dura alrededor de 2-9 días y en el congelador 1-2 meses, aunque no es recomendable.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Formas de Consumo: </strong> Se puede consumir como tortillas, bolones de igual forma como snacks.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Usos: </strong> Aporta energía a nuestro organismo rápidamente, por lo que es una fruta excelente para niños y deportistas o para casos de agotamiento, fatiga crónica y fibromialgia.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES ESPECÍFICAS:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Científico: </strong>Musa paradisiaca.
+                    </p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
+                    </p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="border border-black">Calorías 100</td>
+                                    <td class="border border-black">Hidratos de carbono 22,8 g</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Proteínas 1,3 g</td>
+                                    <td class="border border-black">Fibra 4,9 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Agua 73,8%</td>
+                                    <td class="border border-black">Calcio 9 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Hierro 0,6 mg</td>
+                                    <td class="border border-black">Grasas 0</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
+                        <strong>Características organolépticas:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Tiene forma oblonga, alargada y algo curvada. Tamaño y peso: los plátanos pueden llegar a pesar unos 200 gramos o más cada unidad. Posee una longitud mínima de 14,0 cm y un grosor mínimo de 2,7 cm. El plátano tiene sabor dulce y perfumado.
+					</p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Caja de 23 KG: </strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Largo 500 - Ancho 395 - Alto 231 - Test 250C
+                    </p>
+                </div>
+            </div>
+        </section>
+		<hr class="m-2" />
+		<section class="flex items-center m-4">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
+                <div>
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/maracuya.png') }}">
+                </div>
+                <div>
+                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                        Maracuyá
+                    </h2>
+                </div>
+            </div>
+            <div class="w-1/2 m-2">
+                <div class="flex justify-between">
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div>
+                        <img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    </div>
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="m-2">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Comercial: </strong>Maracuyá, parcha, parchita y chinola.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES GENERALES:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Descripción: </strong>Es un fruto aromático que presenta una cáscara dura, lisa, que al madurar se torna rugosa. Su forma es redonda u ovalada y en su interior está llena de una pulpa viscosa de color amarillo con abundantes semillas pequeñas de color negro. Su sabor es dulce y levemente ácido. Mide entre 4 y 10 cms de diámento.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Vida Útil: </strong>Soporta hasta 20 días en perfecto estado, después de ese tiempo, su corteza empieza a presentar daños o deshidratación por frío, aunque la pulpa mantiene óptimas condiciones.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Formas de Consumo: </strong>El maracuyá se consume crudo, sin necesidad de cocinarlo o de retirar las semillas, es decir, puede consumirse directamente la fruta, una vez abierta.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Usos: </strong>Se utiliza en ensaladas de frutas, mermeladas, exquisitos batidos, zumos y postres.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES ESPECÍFICAS:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Científico: </strong>Passiflora edulis.
+                    </p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
+                    </p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="border border-black">Calorías 78</td>
+                                    <td class="border border-black">Hierro 0,3 g</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Proteínas 0,8 g</td>
+                                    <td class="border border-black">Vitamina A 664 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Fibra 0,2 g</td>
+                                    <td class="border border-black">Riboflavina 0,1 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Fósforo 18 g</td>
+                                    <td class="border border-black">Niacina 2,24 mg</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
+                        <strong>Características organolépticas:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        El maracuyá puede mostrar hojas no lobuladas al inicio de su crecimiento y posteriormente hojas trilobuladas. Como es usual en las enredaderas, las raíces son superficiales.
+					</p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Caja de 2,5 KG: </strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Largo 340 - Ancho 235 - Alto 90 - Test 200C
+                    </p>
+                </div>
+            </div>
+        </section>
+		<hr class="m-2" />
+		<section class="flex items-center m-4">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
+                <div>
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/pepino-dulce.jpg') }}">
+                </div>
+                <div>
+                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                        Pepino Dulce
+                    </h2>
+                </div>
+            </div>
+            <div class="w-1/2 m-2">
+                <div class="flex justify-between">
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div>
+                        <img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    </div>
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="m-2">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Comercial: </strong>Pepino dulce o pera-melón
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES GENERALES:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Descripción: </strong>Es una especie originaria del área andina, donde se cultiva hace varios miles de años. Sin embargo, a pesar de sus buenas cualidades productivas, ha sido un cultivo que no se ha extendido al resto del mundo. No ha sido hasta hace pocos años cuando ha renacido el interés por este cultivo y se han iniciado intentos para introducirlo en diversos países.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Vida Útil: </strong>Los frutos del pepino dulce se conservan bien durante más de 15 días a temperatura ambiente si están libres de golpes o daños en la piel. Si descendemos la temperatura de conservación a 5° se puede alargar este período a más de 70 días aunque en todos los casos hay que tener en cuenta la variabilidad que existe entre cultivares.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Formas de Consumo: </strong>El fruto de pepino dulce es una baya que se puede consumir como fruta refrescante o en ensaladas, dependiendo de la variedad o del estado de madurez del fruto.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Usos: </strong> Es posible su consumo en zumos o en postres y platos más elaborados. El fruto tiene un buen sabor y un gran aroma.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES ESPECÍFICAS:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Científico: </strong>Solanum muricatum Aiton.
+                    </p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
+                    </p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="border border-black">Calorías 26</td>
+                                    <td class="border border-black">Potasio 117 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Proteínas 0,30 g</td>
+                                    <td class="border border-black">Fósforo 10 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Agua 92,30%</td>
+                                    <td class="border border-black">Calcio 30 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Fibra 0,5 g</td>
+                                    <td class="border border-black">Carbohidratos 7 g</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
+                        <strong>Características organolépticas:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Los frutos deben tener forma ovijal o redondeada, con diámentro de 6 a 8 cms, largo de 10 a 15 cms y peso entre 100 a 200 g. El fruto debe presentar una epidermis o piel amarillenta con estrías moradas o púrpuras, sin manchas de otro tipo.
+					</p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Caja de 2,5 KG: </strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Largo 340 - Ancho 235 - Alto 90 - Test 200C
+                    </p>
+                </div>
+            </div>
+        </section>
+		<hr class="m-2" />
+		<section class="flex items-center m-4">
+            <div class="w-1/2 flex flex-col justify-center items-center m-2">
+                <div>
+                    <img class="object-contain w-auto h-max m-auto" src="{{ asset('/img/aguacate.jpg') }}">
+                </div>
+                <div>
+                    <h2 class="text-7xl font-general text-center font-normal uppercase">
+                        Aguacate
+                    </h2>
+                </div>
+            </div>
+            <div class="w-1/2 m-2">
+                <div class="flex justify-between">
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div>
+                        <img class="w-auto h-28 m-2" src="{{ asset('/img/LOGO-EKINOX.png') }}">
+                    </div>
+                    <div>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+                <div class="m-2">
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Comercial: </strong>Aguacate o palta.
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES GENERALES:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Descripción: </strong>El aguacate es un fruto exótico cremoso que se obtiene del árbol tropical del mismo nombre. en algunas partes de América del Sur se conoce como Palta. Presenta unas dimensiones de 5-6 cms de longitud. El peso normal oscila entre 200-400 g.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Vida Útil: </strong> El aguacate verde puede durar de cuatro a cinco días en madurar si lo almacenas a una temperatura ambiente de unos 18°C. Al estar verde no se aconseja ponerlo en el refrigerador ya que no obtendrá la textura deseada posteriormente. Sin embargo, al madurar, ya se puede refrigerar.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Formas de Consumo: </strong> Se puede comer tanto como cocido, empleándose más como una hortaliza que como fruta. Carece de un sabor dulce o ácido característico, lo que me permite su combinación con muchos platos.
+					</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES ESPECÍFICAS:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Nombre Científico: </strong>Persea americana.
+                    </p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>PROPIEDADES FÍSICO-QUÍMICAS:</strong>
+                    </p>
+                    <div>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td class="border border-black">Humedad 74,30%</td>
+                                    <td class="border border-black">Carbohidratos 4,32%</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Proteínas 1,67 g</td>
+                                    <td class="border border-black">Fibra 1,35 g</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Grasa 17,10</td>
+                                    <td class="border border-black">Calcio 9 mg</td>
+                                </tr>
+                                <tr>
+                                    <td class="border border-black">Cenizas 1,26%</td>
+                                    <td class="border border-black"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased uppercase">
+                        <strong>Características organolépticas:</strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        El fruto es una baya unisemillada, oval, de superficie lisa o rugosa. El envero se produce sólo en algunas variedades y la maduración del fruto sólo cuando éste se separa del árbol.
+					</p>
+                    <p>&nbsp;</p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        <strong>Caja de 4 KG: </strong>
+                    </p>
+                    <p class="text-sm font-sans font-normal text-gray-900 antialiased">
+                        Largo 385 - Ancho 285 - Alto 120 - Test 500C
+                    </p>
+                </div>
+            </div>
+        </section>
     </main>
 </div>
 <footer class="bg-naranja dark:bg-gray-800 z-10">
